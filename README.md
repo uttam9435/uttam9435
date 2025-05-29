@@ -1,7 +1,7 @@
 # About me
 Hi! My name is Uttam Kumar. Thank You for taking the time to view my GitHub Profile 😊
 
- 👉🏼 Pursuing Masters in Computer Applications from NIT, Kurukshetra.
+ 👉🏼 Completed Masters in Computer Applications from NIT, Kurukshetra.
 
 👉🏼 I’m currently working on Projects based on Web Application.
 
